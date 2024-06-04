@@ -2,8 +2,8 @@
 #include <Arduino_ConnectionHandler.h>
 
 // Network credentials
-const char SSID[] = "Fast";                  
-const char PASS[] = "cambodianchinesehouse"; 
+const char SSID[] = "YourNetworkSSID";                  
+const char PASS[] = "YourNetworkPassword"; 
 
 // Pin definitions for clarity and easy management
 const int PUMP_PIN = LED_BUILTIN;  // Define the pin used for controlling the water pump
